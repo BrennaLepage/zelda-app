@@ -8,7 +8,6 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
       </header>
       <div id="images">
-    <div id="root"></div>
     <div id="link">
       <img src="media/link.png"></img>
     </div>
