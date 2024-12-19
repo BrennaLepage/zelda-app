@@ -14,8 +14,3 @@
 body{
   background-color: black;
 }
-body div{
-  display: flex;
-  flex-direction: row;
-}
-
