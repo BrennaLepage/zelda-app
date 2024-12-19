@@ -1,4 +1,4 @@
-import logo from './media/zelda-logo.png';
+import logo from './zelda-logo.png';
 import './App.css';
 
 function App() {
