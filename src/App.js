@@ -1,4 +1,4 @@
-import logo from './zelda-logo.png';
+import logo from './media/zelda-logo.png';
 import './App.css';
 
 function App() {
@@ -6,7 +6,6 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-
       </header>
     </div>
   );
